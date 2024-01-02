@@ -17,7 +17,7 @@ Esta plataforma tiene como objetivo principal proporcionar a los usuarios una ex
 git clone https://github.com/EricSchenone/TP-Final_3erCuatri_Frontend.git
  
 ```
->Ejecuta los siguientes comandos para instalar las dependencias y iniciar la aplicación:
+>Ejecuta los siguientes comandos para instalar las dependencias e iniciar la aplicación:
 ``` Bash
 cd FrontEnd-React-Tailwind
 npm install
